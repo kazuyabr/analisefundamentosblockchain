@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import { Button } from 'flowbite-svelte';
+  </script>
+<h1>Bem vindos</h1>
+<p>Estamos começando o sistema, mas se deseja ver nossa arquitetura pode acessa-la <Button color="light" href="#">CLICANDO AQUI!</Button></p>
